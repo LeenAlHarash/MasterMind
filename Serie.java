@@ -1,5 +1,3 @@
-package TP_1;
-
 import java.util.ArrayList;
 
 /**
@@ -72,7 +70,7 @@ public class Serie {
                 for (int k = 0; k < uneSerie.c.size(); k++) {
                     if (!serie[k] && this.c.get(i).equals(uneSerie.getCouleur(k))) {
                         res.ajouterCouleur(new Couleur("Blanc", 'B')); 
-                        serie[k] = true; //turns the rest true so white
+                        serie[k] = true;     //turns the rest true so white
                         break;
                     }
                 }
