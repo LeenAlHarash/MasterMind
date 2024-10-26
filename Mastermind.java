@@ -37,7 +37,7 @@ public class Mastermind {
             int index = meow.nextInt(choixCouleurs.length); //random color from the []
             Couleur couleur = new Couleur(choixCouleurs[index], abreviations[index]);
             se.ajouterCouleur(couleur);
-            System.out.println(se); //to show random answer for testing
+            //System.out.println(se); to show random answer for testing
         }
         return se; 
     }
