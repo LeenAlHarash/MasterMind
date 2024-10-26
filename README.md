@@ -13,3 +13,6 @@ Master Mind is a game of wits and logic where you are required to find out the s
 
 ## Authors
 - Leen Al Harash
+
+## LICENSE
+[MIT](https://choosealicense.com/licenses/mit/)
