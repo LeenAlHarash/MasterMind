@@ -1,10 +1,7 @@
-package TP_1;
-
 import java.util.ArrayList;
 import java.util.Random;
 
 /**
- *
  * @author leenz
  */
 public class Mastermind {
