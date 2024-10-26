@@ -1,7 +1,4 @@
-package TP_1;
-
 /**
- *
  * @author leenz
  */
 
