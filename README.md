@@ -11,6 +11,11 @@ Master Mind is a game of wits and logic where you are required to find out the s
     - No feedback means that none of the guessed colors are part of the sequence.
 - If you dont manage to guess the correct palette after 12 tries, its game over.
 
+## Built with
+- Love
+- Java
+- Lots of patience
+  
 ## Authors
 - Leen Al Harash
 
