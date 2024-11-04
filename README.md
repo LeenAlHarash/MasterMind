@@ -21,6 +21,9 @@ Master Mind is a game of wits and logic where you are required to find out the s
 - Run class Main.java
 - Have fun :)
 
+## RoadMap
+- Adding visual colors
+
 ## Authors
 - Leen Al Harash
 
