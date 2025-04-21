@@ -1,9 +1,8 @@
-# MasterMind
+# MasterMind 🔴🔵🟢
 
 ## Description
 Master Mind is a game of wits and logic where you are required to find out the secret sequence of colors generated randomly each time.
-
-## Rules
+Here are the **Rules**:
 - Select 5 colors from the available palette. You can choose colors more than once.
 - After each guess, you will receive an N or B :
     - N indicates a color that is correct and in the right position.
@@ -12,12 +11,11 @@ Master Mind is a game of wits and logic where you are required to find out the s
 - If you dont manage to guess the correct palette after 12 tries, its game over.
 
 ## Built with
-- Love
 - Java
-- Lots of patience
+- Lots and lots of patience
 
 ## Usage
-- Download all 4 classes
+- Download all the files
 - Run class Main.java
 - Have fun :)
 
@@ -28,4 +26,4 @@ Master Mind is a game of wits and logic where you are required to find out the s
 - Leen Al Harash
 
 ## LICENSE
-[MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://choosealicense.com/licenses/mit/)
